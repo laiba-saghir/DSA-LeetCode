@@ -422,9 +422,30 @@ More DSA patterns coming soon.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0877-stone-game](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1929-concatenation-of-array](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
