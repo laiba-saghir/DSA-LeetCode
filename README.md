@@ -422,6 +422,7 @@ More DSA patterns coming soon.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0877-stone-game](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1929-concatenation-of-array](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Simulation
@@ -448,4 +449,8 @@ More DSA patterns coming soon.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
