@@ -6,8 +6,8 @@ public:
         int depth=0;
         int i=0;
         for(char c:seq){
-            ans[i] = (c == '(') ? ++depth %2:depth-- %2;
-            i++;
+            ans[i++] = (c == '(') ? ++depth %2:depth-- %2;
+            //i++;
         }
         return ans;
 
