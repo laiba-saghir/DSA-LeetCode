@@ -13,9 +13,9 @@ public:
 //#define ed endl;
     bool hasCycle(ListNode *head) {
 
-        if(head==nullptr || head->next == nullptr){
-                return false;
-        }
+        //if(head==null || head->next == null){
+          //      return false;
+      //  }
         ListNode* s = head;
         ListNode* f = head;
         while(f!= nullptr && f->next != nullptr){
