@@ -8,17 +8,17 @@
  */
 class Solution {
 public:
-#define null NULL
-#define node ListNode
-#define ed endl;
+//#define null NULL
+//#define node ListNode
+//#define ed endl;
     bool hasCycle(ListNode *head) {
 
-        if(head==null || head->next == null){
+        if(head==nullptr || head->next == nullptr){
                 return false;
         }
-        node* s = head;
-        node* f = head;
-        while(f!= null && f->next != null){
+        ListNode* s = head;
+        ListNode* f = head;
+        while(f!= nullptr && f->next != nullptr){
             s = s->next;
             f=f->next->next;
 
