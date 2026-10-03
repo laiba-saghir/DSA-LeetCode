@@ -454,18 +454,22 @@ More DSA patterns coming soon.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->
