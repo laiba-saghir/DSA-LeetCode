@@ -424,6 +424,7 @@ More DSA patterns coming soon.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0053-maximum-subarray](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0877-stone-game](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1929-concatenation-of-array](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -440,6 +441,7 @@ More DSA patterns coming soon.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0877-stone-game](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
