@@ -433,6 +433,7 @@ More DSA patterns coming soon.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0202-happy-number](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0877-stone-game](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -456,6 +457,7 @@ More DSA patterns coming soon.
 | [0001-two-sum](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0202-happy-number/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -467,6 +469,7 @@ More DSA patterns coming soon.
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
@@ -474,6 +477,7 @@ More DSA patterns coming soon.
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
