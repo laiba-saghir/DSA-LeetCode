@@ -428,6 +428,7 @@ More DSA patterns coming soon.
 | [0287-find-the-duplicate-number](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0877-stone-game](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1929-concatenation-of-array](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -445,6 +446,7 @@ More DSA patterns coming soon.
 | [0152-maximum-product-subarray](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0877-stone-game](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
