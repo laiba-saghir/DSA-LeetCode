@@ -430,6 +430,7 @@ More DSA patterns coming soon.
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1929-concatenation-of-array](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -503,4 +504,8 @@ More DSA patterns coming soon.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
