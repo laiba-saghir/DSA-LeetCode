@@ -426,6 +426,7 @@ More DSA patterns coming soon.
 | [0053-maximum-subarray](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0877-stone-game](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -470,6 +471,7 @@ More DSA patterns coming soon.
 | [0141-linked-list-cycle](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0202-happy-number/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -523,5 +525,6 @@ More DSA patterns coming soon.
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 <!---LeetCode Topics End-->
