@@ -477,6 +477,7 @@ More DSA patterns coming soon.
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0206-reverse-linked-list](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -527,4 +528,8 @@ More DSA patterns coming soon.
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0724-find-pivot-index/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
