@@ -431,6 +431,7 @@ More DSA patterns coming soon.
 | [0724-find-pivot-index](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0877-stone-game](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1929-concatenation-of-array](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -476,6 +477,7 @@ More DSA patterns coming soon.
 | [0202-happy-number](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0525-contiguous-array](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -534,6 +536,7 @@ More DSA patterns coming soon.
 | [0525-contiguous-array](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0724-find-pivot-index/) | Easy |
+| [0974-subarray-sums-divisible-by-k](https://github.com/laiba-saghir/DSA-LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
